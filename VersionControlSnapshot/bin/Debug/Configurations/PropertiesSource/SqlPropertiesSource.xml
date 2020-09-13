@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlProperties>
+  <!--
+  <SqlPropertyItem>
+    <SQL>SELECT * FROM X </SQL>
+    <TargetFolder></TargetFolder>
+    <FileName></FileName>
+    <ConectionName></ConectionName>
+  </SqlPropertyItem>
+  -->
+</SqlProperties>  

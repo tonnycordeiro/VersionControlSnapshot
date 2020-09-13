@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DiffFilesAttributes>
+  <!--
+  <DiffFilesAttributesItem>
+    <Path>PARAMETERS</Path>
+    <FileTransferCondition>IF_DIFF</FileTransferCondition>
+    <XmlDiffOptions>IgnoreChildOrder|IgnoreNamespaces</XmlDiffOptions>
+  </DiffFilesAttributesItem>
+  -->
+</DiffFilesAttributes>

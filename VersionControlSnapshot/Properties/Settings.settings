@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VersionControlSnapshot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProcessCommandLinePropertiesSource_FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\Configurations\PropertiesSource\ProcessCommandLinePropertiesSource.xml</Value>
+    </Setting>
+    <Setting Name="MapFolderPropertiesSource_FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\Configurations\PropertiesSource\MapFolderPropertiesSource.xml</Value>
+    </Setting>
+    <Setting Name="DiffFilesAttributesMap_FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\Configurations\DiffFilesAttributesMap.xml</Value>
+    </Setting>
+    <Setting Name="NetworkPathAccessSettings_FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\Configurations\NetworkPathAccessSettings.xml</Value>
+    </Setting>
+    <Setting Name="NumberOfTries" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="SqlPropertiesSource_FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\Configurations\PropertiesSource\SqlPropertiesSource.xml</Value>
+    </Setting>
+    <Setting Name="DownloadFilesFromTFS" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TfsUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ServerRepositoryPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckInComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CollectionURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TempRepositoryPathToCurrentFiles" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LogFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TfsPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TfsOwner" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WorkspaceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LocalRepositoryPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DatabaseOwner" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IgnoreFilesPathWords" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TimeToUpdateServerRepository" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LocalAdministratorUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LocalAdministratorPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
