@@ -3,4 +3,4 @@ This library is used to make a machine snapshot, getting files and configuration
 
 ----------------------------------------------------------
 
-The project implements the design patterns Strategy and Factory Method.
+The project implements the design patterns _Strategy_ and _Factory Method_.
